@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner Portafolio" width="900">
+  <img src="https://raw.githubusercontent.com/Alison10022005/Alison10022005/main/marges/banner.png" alt="Banner portafolio" width="900">
 </p>
+
 ## Hi there 👋
 
 <!--
