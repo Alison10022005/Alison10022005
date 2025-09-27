@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner Portafolio" width="900">
+</p>
 ## Hi there 👋
 
 <!--
