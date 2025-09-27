@@ -19,7 +19,46 @@ Reciente graduada en Análisis y Desarrollo de Software, con experiencia en proy
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
+## 📂 Proyectos destacados  
+
+### ☕ Java  
+- Ejercicios prácticos con arrays, clases y objetos.  
+- Calculadora con **JFrame**.  
+- Mini proyectos de **login y registro**.  
+
+### 🌐 Web (HTML, CSS, JS)  
+- Validación de formularios con JavaScript.  
+- Página web de práctica (estructuras básicas HTML/CSS).  
+
+### ⚛️ React + Vite + TypeScript  
+- Aplicaciones dinámicas en proceso de aprendizaje.  
+
+---
+
+## 🎯 Objetivos profesionales  
+- Poner en práctica mis conocimientos en un entorno real.  
+- Aportar valor a los proyectos y seguir aprendiendo nuevas tecnologías.  
+- Crecer como desarrolladora y aportar con compromiso y creatividad.  
+
+---
+
+## 📊 Estadísticas de GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alison10022005&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alison10022005&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 📫 Contacto  
+- ✉️ **Email:** [alison.ospina.c@gmail.com](mailto:alison.ospina.c@gmail.com)  
+- 🐙 **GitHub:** [Alison10022005](https://github.com/Alison10022005) 
 
 <!--
 **Alison10022005/Alison10022005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
