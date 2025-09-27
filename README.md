@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Alison10022005/images/banner.png" alt="Banner Portafolio" width="900">
+  <img src="./images/banner.png" alt="Banner Portafolio" width="900">
 </p>
 ## Hi there 👋
 
